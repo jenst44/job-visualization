@@ -89,6 +89,7 @@ def aveAmount(salary):
   return ave
 
 
+print 'jensjens'
 updateBase()
 
 
